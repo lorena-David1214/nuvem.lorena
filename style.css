@@ -1,0 +1,126 @@
+@media screen and (min-width: 800px){
+    body {background-color: rgb(255, 0, 119);
+    }
+}
+
+.p1{text-align: center;
+font-size:400%;
+color: rgb(226, 214, 43); 
+border-color: aqua;
+border-width: 6px;
+border-style: double; 
+margin-left: 10%;
+margin-right: 10%;
+background-color: rgb(45, 133, 37);
+margin-bottom: 5%;
+}
+.p2{text-align: center;
+ font-size: 200%;
+    color:rgb(136, 255, 0); 
+    border-color: rgb(7, 255, 81);
+    border-width: 6px;
+    border-style: groove; 
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: rgb(121, 238, 203);
+      }
+     
+ .p3{text-align: center;
+ font-size: 200%;
+color: rgb(170, 206, 12);
+ border-color: rgb(0, 255, 106);
+border-width: 6px;
+border-style: groove; 
+margin-left: 60%;
+margin-right: 20%;
+background-color: rgb(190, 172, 9);
+ margin-top: 8%;
+ }
+    
+ .p4{text-align: center;
+font-size: 200%;
+color:rgb(179, 221, 28); 
+ border-color: rgb(240, 51, 60);
+ border-width: 6px;
+ border-style: groove; 
+margin-left: 30%;
+ margin-right: 50%;
+background-color: rgb(231, 138, 61);
+ margin-top: 8%;
+            
+  }
+
+.p5{text-align: center;
+ font-size: 250%;
+ color:rgb(158, 196, 23); 
+border-color: rgb(146, 4, 175);
+border-width: 6px;
+border-style: groove; 
+margin-left: 60%;
+margin-right:25%;
+ background-color: rgb(179, 211, 127);
+ margin-top: 8%;
+     
+    }
+ .p6{text-align: center;
+  font-size:300%;  
+ color:rgb(198, 201, 21); 
+ border-color: rgb(162, 0, 255);
+ border-width: 6px;
+border-style: groove; 
+   margin-left: 20%;
+  margin-right: 50%;
+  background-color: rgb(124, 202, 207);
+  margin-top: 6%;
+                    
+}
+
+ .p7{text-align: center;
+ font-size: 300%;
+ color:rgb(217, 255, 0); 
+  border-color: rgb(0, 255, 179);
+ border-width: 6px;
+  border-style: groove; 
+  margin-left: 60%;
+  margin-right: 20%;
+  background-color: rgb(164, 212, 119);
+    margin-top: 5%;
+  }
+ .p8{text-align: center;
+ font-size: 200%;
+ color:rgb(255, 230, 0); 
+     border-color: rgb(7, 255, 193);
+  border-width: 6px;
+ border-style: groove; 
+margin-left: 20%;
+margin-right: 60%;
+background-color: rgb(108, 142, 206);
+ margin-top: 5%;
+                            
+  }
+
+  .p9{text-align: center;
+ font-size: 300%;
+ color:rgb(228, 224, 31); 
+   border-color: rgb(4, 255, 117);
+ border-width: 6px;
+ border-style: groove; 
+ margin-left: 60%;
+ margin-right: 20%;
+ background-color: rgb(204, 102, 102);
+   margin-top: 5%;
+   }
+
+  .p10{text-align: center;
+  font-size: 300%;
+ color:rgb(116, 114, 0); 
+  border-color: rgb(85, 255, 7);
+  border-width: 6px;
+  border-style: groove;    
+  margin-left: 20%;
+ margin-right: 60%;
+background-color: rgb(185, 255, 120);
+  margin-top: 5%;
+ }
+        
+    
